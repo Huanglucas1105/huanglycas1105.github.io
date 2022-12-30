@@ -1,1 +1,5 @@
-print(123)
+import time
+import os
+
+timer = 0
+
